@@ -18,3 +18,6 @@ All exploratory and inferential statistical analysis, visualization and recommen
 
 
 https://github.com/MikeHankinson/6_MIT_Recommendation_Systems/blob/main/Amazon_Recommendation_System_Learner%2527s_Notebook.ipynb
+
+[JN](Amazon_Recommendation_System_Learner%2527s_Notebook.ipynb)
+
