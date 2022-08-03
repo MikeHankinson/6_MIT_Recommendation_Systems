@@ -12,12 +12,5 @@ E-commerce websites like Amazon, Flipkart uses different recommendation models t
 Work with an Amazon product reviews dataset to build a recommendation system to recommend products to customers based on their previous ratings for other products.  The dataset does not include information about the products or reviews to avoid bias while building the model
 
 ### Results
-All exploratory and inferential statistical analysis, visualization and recommendation systems are included in the following project notebook:  
-[Jupyter Notebook](Amazon_Recommendation_System_Learner%27s_Notebook.ipynb)
-
-
-
-https://github.com/MikeHankinson/6_MIT_Recommendation_Systems/blob/main/Amazon_Recommendation_System_Learner%2527s_Notebook.ipynb
-
-[JN](Amazon_Recommendation_System_Learner%2527s_Notebook.ipynb)
+All exploratory and inferential statistical analysis, visualization and recommendation systems are included in the following project notebook:  [Jupyter Notebook](Amazon_Recommendation_System_Learner%2527s_Notebook.ipynb)
 
